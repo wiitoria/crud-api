@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    background-image: url(https://wallpapersok.com/images/high/cool-haikyuu-desktop-with-karasuno-team-vladmu2kz1weph60.jpg);
+    background-size: cover;
+
+}
+
+.cabeçalho{
+    background-color: rgb(255, 174, 0);
+    width: 100vw;
+    height: 50px;
+    
+    
+}
+.borda{
+    background-color: black;
+    width: 100vw;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+}
+button{
+    width: 100px;
+    height: 35px;
+}
+
+.conteudo > div {
+    background-color: rgba(247, 187, 76, 0.74);
+    color: black;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 6px;
+    border: 1px solid #aaa;
+  }
+
+
+
